@@ -1,2 +1,2 @@
 # Tools
-Collection of tool which might be handy again someday. Mostly data processing.
+Collection of tools which might be useful again someday. Mostly data processing.
